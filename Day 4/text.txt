@@ -1,0 +1,3 @@
+Python is a bad programming language for those who never practice.
+But with practice, Python becomes a good and powerful tool.
+Never stop learning.
